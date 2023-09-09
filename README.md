@@ -4,7 +4,7 @@
 ![t2i](assets/stable-samples/txt2img/768/merged-0005.png)
 
 This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with
-new checkpoints. The following list provides an overview of all currently available models. More coming soon.
+new checkpoints. The following list provides an overview of all currently available models. 
   
 ## Requirements
 
@@ -17,7 +17,7 @@ pip install -e .
 ``` 
 #### xformers efficient attention
 For more efficiency and speed on GPUs, 
-we highly recommended installing the [xformers](https://github.com/facebookresearch/xformers)
+we highly recommend installing the [xformers](https://github.com/facebookresearch/xformers)
 library.
 
 Tested on A100 with CUDA 11.4.
